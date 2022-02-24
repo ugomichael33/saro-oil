@@ -1,17 +1,18 @@
 .header {
   background-color: #ffffff;
   height: 111px;
+  width: 1500px;
 }
 
 .header > img {
   width: 92px;
   height: 87px;
-  margin-left: 40px;
+  margin-left: 230px;
   margin-top: 9px;
 }
 
 .header > h1 {
-  margin-left: 100px;
+  margin-left: 500px;
   margin-top: -50px;
   font-family: Gilroy;
   font-weight: 800;
@@ -23,7 +24,7 @@
 }
 
 .header > h2 {
-  margin-left: 500px;
+  margin-left: 800px;
   margin-top: -20px;
   font-family: Gilroy;
   font-weight: 800;
@@ -35,7 +36,7 @@
 }
 
 .header > h3 {
-  margin-left: 900px;
+  margin-left: 1120px;
   margin-top: -15px;
   font-family: Gilroy;
   font-weight: 800;

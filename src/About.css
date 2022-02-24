@@ -1,10 +1,11 @@
 .about {
   background-color: #f4f4f4;
   height: 959px;
+  width: 1440px;
 }
 
 .about > h1 {
-  margin-left: 120px;
+  margin-left: 250px;
   margin-top: 152px;
   font-family: Open Sans;
   font-size: 16px;
@@ -15,7 +16,7 @@
 }
 
 .about > h2 {
-  margin-left: 120px;
+  margin-left: 250px;
   margin-top: 20px;
   font-family: PT Serif;
   font-weight: bold;
@@ -31,7 +32,7 @@
 }
 
 .about > p {
-  margin-left: 120px;
+  margin-left: 250px;
   margin-top: 26px;
   font-family: Open Sans;
   font-size: 16px;
@@ -42,7 +43,7 @@
 .about__button {
   width: 305px;
   height: 58px;
-  margin-left: 120px;
+  margin-left: 250px;
   margin-top: 100px;
   background-color: #145a2f;
 }
@@ -61,12 +62,12 @@
 .about__image > img {
   width: 400px;
   height: 530.71px;
-  margin-left: 597px;
+  margin-left: 750px;
   margin-top: -410px;
 }
 
 .about__heap > img {
-    position: absolute;
-  margin-left: 1030px;
+  position: absolute;
+  margin-left: 1200px;
   margin-top: -470px;
 }

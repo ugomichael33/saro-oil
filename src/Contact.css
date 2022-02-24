@@ -1,10 +1,11 @@
 .contact {
   background-color: #f4f4f4;
   height: 453px;
+  width: 1500px;
 }
 
 .contact > h1 {
-  margin-left: 150px;
+  margin-left: 350px;
   margin-top: 100px;
   font-family: PT Serif;
   font-weight: bold;
@@ -20,7 +21,7 @@
 }
 
 .contact > p {
-  margin-left: 150px;
+  margin-left: 350px;
   margin-top: 20px;
   font-family: Open Sans;
   font-size: 16px;
@@ -31,7 +32,7 @@
 .contact__button {
   width: 164px;
   height: 58px;
-  margin-left: 960px;
+  margin-left: 1150px;
   margin-top: -130px;
   background: #145a2f;
 }

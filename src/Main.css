@@ -22,16 +22,17 @@
   background-color: #3fb652;
 }
 
-.main > img {
-  width: 1265px;
-  height: 989px
+.main > div > img {
+  width: 1500px;
+  height: 989px;
+  object-fit: fill;
 }
 
 .patch {
   position: absolute;
-  width: 250px;
+  width: 300px;
   height: 95px;
-  background-color: #3FB652;
+  background-color: #3fb652;
   margin-top: -370px;
   margin-left: 870px;
 }

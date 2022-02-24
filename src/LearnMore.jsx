@@ -4,6 +4,7 @@ import './LearnMore.css'
 function LearnMore() {
   return (
     <div className='learnmore'>
+      <div className='learnMore__container'>
       <h1>learn more </h1>
       <h2>Our Capabilities</h2>
       <div className='learn__more'>
@@ -23,6 +24,7 @@ function LearnMore() {
       </div>
       <div className='learn__more'>
           <h1>Speed & Aggression</h1>
+      </div>
       </div>
     </div>
   )

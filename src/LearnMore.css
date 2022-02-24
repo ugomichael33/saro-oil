@@ -1,11 +1,12 @@
 .learnmore {
   background-color: #275a53;
   height: 856px;
+  width:1440px;
 }
 
 .learn__more {
-  margin-top: 100px;
-  margin-left: 270px;
+  margin-top: 120px;
+  margin-left: 370px;
   width: 80px;
   height: 80px;
   border-radius: 50px;
@@ -13,9 +14,9 @@
   display: inline-block;
 }
 
-.learnmore > h1 {
-  margin-left: 150px;
-  margin-top: 120px;
+.learnMore__container > h1 {
+  margin-left: 300px;
+  margin-top: 150px;
   font-family: Open Sans;
   font-size: 16px;
   line-height: 22px;
@@ -24,8 +25,8 @@
   color: #3fb652;
 }
 
-.learnmore > h2 {
-  margin-left: 150px;
+.learnMore__container > h2 {
+  margin-left: 300px;
   margin-top: 15px;
   font-family: PT Serif;
   font-weight: bold;

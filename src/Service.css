@@ -1,15 +1,16 @@
 .service {
   background-color: #fefefe;
   height: 782px;
+  width: 1500px;
 }
 
 .service > img {
-  width: 707px;
+  width: 850px;
   height: 782px;
 }
 
 .service > h1 {
-  margin-left: 774px;
+  margin-left: 920px;
   margin-top: -700px;
   font-family: Open Sans;
   font-size: 16px;
@@ -20,7 +21,7 @@
 }
 
 .service > h2 {
-  margin-left: 774px;
+  margin-left: 920px;
   margin-top: 20px;
   font-family: PT Serif;
   font-weight: bold;
@@ -33,7 +34,7 @@
 
 .service > h3 {
   position: absolute;
-  margin-left: 774px;
+  margin-left: 920px;
   margin-top: 0px;
   font-family: Open Sans;
   font-size: 16px;
@@ -42,7 +43,7 @@
 }
 
 .service > h4 {
-  margin-left: 774px;
+  margin-left: 920px;
   margin-top: 80px;
   font-family: PT Serif;
   font-weight: bold;
@@ -56,8 +57,8 @@
 .service__button {
   width: 170px;
   height: 58px;
-  margin-left: 774px;
-  margin-top: 100px;
+  margin-left: 920px;
+  margin-top: 80px;
   background-color: #145a2f;
 }
 
