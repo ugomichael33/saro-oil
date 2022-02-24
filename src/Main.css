@@ -1,0 +1,37 @@
+.main {
+  height: 995px;
+}
+
+.title {
+  margin-left: 163px;
+  margin-top: -700px;
+  font-family: Gilroy;
+  font-weight: 800;
+  font-size: 120px;
+  line-height: 136px;
+  text-align: center;
+  letter-spacing: -0.5px;
+  color: #ffffff;
+}
+
+.main__button {
+  width: 226.02px;
+  height: 96.15px;
+  margin-left: 863.34px;
+  margin-top: 0px;
+  background-color: #3fb652;
+}
+
+.main > img {
+  width: 1265px;
+  height: 989px
+}
+
+.patch {
+  position: absolute;
+  width: 250px;
+  height: 95px;
+  background-color: #3FB652;
+  margin-top: -370px;
+  margin-left: 870px;
+}

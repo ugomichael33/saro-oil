@@ -1,0 +1,48 @@
+.contact {
+  background-color: #f4f4f4;
+  height: 453px;
+}
+
+.contact > h1 {
+  margin-left: 150px;
+  margin-top: 100px;
+  font-family: PT Serif;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 60px;
+  letter-spacing: -0.5px;
+  text-transform: capitalize;
+  color: #275a53;
+}
+
+.contact > h1 > span {
+  color: #323232;
+}
+
+.contact > p {
+  margin-left: 150px;
+  margin-top: 20px;
+  font-family: Open Sans;
+  font-size: 16px;
+  line-height: 180%;
+  color: #969696;
+}
+
+.contact__button {
+  width: 164px;
+  height: 58px;
+  margin-left: 960px;
+  margin-top: -130px;
+  background: #145a2f;
+}
+
+.contact__button > span {
+  position: absolute;
+  margin-left: 40px;
+  margin-top: 18px;
+  font-family: Open Sans;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  color: #ffffff;
+}

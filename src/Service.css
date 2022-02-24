@@ -1,0 +1,73 @@
+.service {
+  background-color: #fefefe;
+  height: 782px;
+}
+
+.service > img {
+  width: 707px;
+  height: 782px;
+}
+
+.service > h1 {
+  margin-left: 774px;
+  margin-top: -700px;
+  font-family: Open Sans;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #3fb652;
+}
+
+.service > h2 {
+  margin-left: 774px;
+  margin-top: 20px;
+  font-family: PT Serif;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 60px;
+  letter-spacing: -0.5px;
+  text-transform: capitalize;
+  color: #275a53;
+}
+
+.service > h3 {
+  position: absolute;
+  margin-left: 774px;
+  margin-top: 0px;
+  font-family: Open Sans;
+  font-size: 16px;
+  line-height: 180%;
+  color: #969696;
+}
+
+.service > h4 {
+  margin-left: 774px;
+  margin-top: 80px;
+  font-family: PT Serif;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 60px;
+  letter-spacing: -0.5px;
+  text-transform: capitalize;
+  color: #275a53;
+}
+
+.service__button {
+  width: 170px;
+  height: 58px;
+  margin-left: 774px;
+  margin-top: 100px;
+  background-color: #145a2f;
+}
+
+.service__button > span {
+  position: absolute;
+  margin-left: 40px;
+  margin-top: 18px;
+  font-family: Open Sans;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  color: #ffffff;
+}

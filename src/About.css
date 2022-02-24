@@ -1,0 +1,72 @@
+.about {
+  background-color: #f4f4f4;
+  height: 959px;
+}
+
+.about > h1 {
+  margin-left: 120px;
+  margin-top: 152px;
+  font-family: Open Sans;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #e2963c;
+}
+
+.about > h2 {
+  margin-left: 120px;
+  margin-top: 20px;
+  font-family: PT Serif;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 60px;
+  letter-spacing: -0.5px;
+  text-transform: capitalize;
+  color: #323232;
+}
+
+.about > h2 > span {
+  color: #275a53;
+}
+
+.about > p {
+  margin-left: 120px;
+  margin-top: 26px;
+  font-family: Open Sans;
+  font-size: 16px;
+  line-height: 180%;
+  color: #606060;
+}
+
+.about__button {
+  width: 305px;
+  height: 58px;
+  margin-left: 120px;
+  margin-top: 100px;
+  background-color: #145a2f;
+}
+
+.about__button > span {
+  position: absolute;
+  margin-left: 40px;
+  margin-top: 18px;
+  font-family: Open Sans;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  color: #ffffff;
+}
+
+.about__image > img {
+  width: 400px;
+  height: 530.71px;
+  margin-left: 597px;
+  margin-top: -410px;
+}
+
+.about__heap > img {
+    position: absolute;
+  margin-left: 1030px;
+  margin-top: -470px;
+}
